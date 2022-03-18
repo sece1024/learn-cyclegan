@@ -1,3 +1,21 @@
+
+run/gan/*
+run/compose/*
+run/paint/*
+run/write/*
+run/vae/*
+
+
+
+archive/*
+
+models/archive/*
+
+
+.DS_Store
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
